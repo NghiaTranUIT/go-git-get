@@ -1,4 +1,4 @@
-#GOPATH style git clone
+# GOPATH style git clone
 
 ## Usage
 
